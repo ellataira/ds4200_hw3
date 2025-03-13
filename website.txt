@@ -1,0 +1,23 @@
+https://ellataira.github.io/ds4200_hw3/
+
+Styling: 
+
+1. Body:
+- custom font: Roboto, sans-serif.
+- background color and text color
+
+2. Headings (h1, h2, h3):
+- custom font: Pacifico, cursive
+- color: purple
+- center headings 
+
+3. Navigation Menu
+- custom colors 
+- hover effect to change color 
+
+4. Images
+- rounded corners 
+
+5. Footer
+- background color: green
+- hover effect for links 
